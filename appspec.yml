@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/ec2-user/migcoreapi
+    destination: /tmp/appgithublab
 hooks:
   ValidateService:
     - location: scripts/validate_service.sh
