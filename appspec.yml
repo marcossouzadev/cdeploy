@@ -6,4 +6,4 @@ files:
 hooks:
   ValidateService:
     - location: validate_service.sh
-      timeout: 300
+      timeout: 600
