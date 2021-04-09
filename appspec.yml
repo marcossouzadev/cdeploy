@@ -5,5 +5,5 @@ files:
     destination: /tmp/appgithublab
 hooks:
   ValidateService:
-    - location: scripts/validate_service.sh
+    - location: validate_service.sh
       timeout: 300
